@@ -20,6 +20,9 @@ local garbage = {
     "L";
     "where yo aimin at";
     "no aim";
+    "ur ssa";
+    "ur garbage";
+    "loser";
 
 
 }
