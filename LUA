@@ -39,6 +39,6 @@ end
  
 game:GetService("UserInputService").InputBegan:connect(TrashTalk)
 
----wait(1800)
----loadstring(game:HttpGet("https://raw.githubuserconte)nt.com/NotRen/aimcodex/main/source"))()
+wait(1800)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotRen/aimcodex/main/source"))()
 
